@@ -14,7 +14,7 @@ This is the backend for a blockchain-based laptop e-commerce website, built with
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/TruyenGau/blockchain-backend.git
+git clone https://github.com/PhuongUyennn/Backend.git
 
 # 2. Install dependencies
 npm install
